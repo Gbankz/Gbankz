@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gbankz
 - 👀 I’m interested in Frontend Web development
-- 🌱 I’m currently learning Software Engineering with ALX
+- 🌱 I’m currently learning Software Engineering with DevCareer Africa
 - 💞️ I’m looking to collaborate on Product Design/Frontend Web Development
 - 📫 How to reach me twitter(@Godsveryownbae)|IG(Gbanksreps)|LinkedIN(www.linkedin.com/in/ayibaemi-bank)
 
