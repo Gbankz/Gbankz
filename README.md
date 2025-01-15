@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gbankz
+- 👋 Hi, I’m Gbankz
 - 👀 I’m a system administrator who loves Cyber security and trying to get better with my skilss
 - 🌱 I believe in continuous learning and continous improvement.
 - 💞️ I’m looking to collaborate on Cyber security projects.
